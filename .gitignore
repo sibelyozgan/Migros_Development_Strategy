@@ -77,6 +77,23 @@ target/
 
 # data to exclude
 GeoFeatures_Zurich_provided_by_UrbanDataLabs.csv
+BAU502OD5023.csv                         
+BAU541OD5414.csv                         
+BAU543OD5436.csv                         
+WIR100OD1004.csv                         
+einkommen.xls                            
+stzh.adm_verwaltungsquartiere_bes_p.json
+stzh.adm_vermbezirke_a.json
+stzh.adm_stadtkreise_v.json
+stzh.adm_stadtkreise_beschr_p.json
+stzh.adm_stadtkreise_a.json
+offnungszeiten-shops.json
+Migros.ipynb
+Shop_Opening_Center.ipynb
+Tests_with_chromedriver.ipynb
+
+
+
 
 # exclude data from source control by default
 
