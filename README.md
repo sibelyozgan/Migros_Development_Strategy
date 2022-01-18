@@ -46,7 +46,7 @@ Analyzes market opportunities based on the density of existing stores, presence 
 
 ## Contributing Members
 
-** Team Leads (Contacts) : **
+**Team Leads (Contacts) :**
 - [Darya Bomberger](https://github.com/dbomberger)
 - [Lucas Fernandez](https://github.com/LucR31)
 - [Sibel Yasemin Özgan](https://github.com/sibelyozgan)
