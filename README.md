@@ -23,11 +23,10 @@ Analyzes market opportunities based on the density of existing stores, presence 
 * Google API, Zürich Tourism API
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+
+- Data Gathering: Google Places API, Zürich Tourism API, Open Data Zürich, proprietary data from UrbanDataLab.
+- Data Preparation and Understanding: Pandas 
+- Data Visualization: Plotly
 
 ## Getting Started
 
@@ -54,7 +53,8 @@ create another "setup.md" file and link to it here*
 
 ## Contributing Members
 
-**Team Leads (Contacts) : [Darya Bomberger](https://github.com/dbomberger)**
-**Team Leads (Contacts) : [Lucas Fernandes](https://github.com/LucR31)**
-**Team Leads (Contacts) : [Sibel Yasemin Özgan](https://github.com/sibelyozgan)**
+**Team Leads (Contacts) : 
+- [Darya Bomberger](https://github.com/dbomberger)**
+- [Lucas Fernandes](https://github.com/LucR31)**
+- [Sibel Yasemin Özgan](https://github.com/sibelyozgan)**
 
