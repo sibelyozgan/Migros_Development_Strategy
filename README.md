@@ -28,6 +28,8 @@ Analyzes market opportunities based on the density of existing stores, presence 
 - Data Preparation and Understanding: Pandas 
 - Data Visualization: Plotly
 
+![Where is the next Migros](reports/img/map1.png)
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
@@ -44,8 +46,8 @@ Analyzes market opportunities based on the density of existing stores, presence 
 
 ## Contributing Members
 
-**Team Leads (Contacts) : **
+** Team Leads (Contacts) : **
 - [Darya Bomberger](https://github.com/dbomberger)
-- [Lucas Fernandes](https://github.com/LucR31)
+- [Lucas Fernandez](https://github.com/LucR31)
 - [Sibel Yasemin Özgan](https://github.com/sibelyozgan)
 
