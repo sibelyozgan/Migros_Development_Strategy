@@ -1,57 +1,60 @@
-Migros_Development_Strategy
-==============================
+# Migros_Development_Strategy
 
+![Where is the next Migros](reports/img/1.png)
+
+
+#### -- Project Status: [Completed]
+
+## Project Intro/Objective
+The purpose of this project is to find out the best locations for the future Migros Stores in Zürich.
 Analyzes market opportunities based on the density of existing stores, presence of competitors, and general population density to inform Migros’ development strategy.
 
-Project Organization
-------------
+### Partner
+* [SIT Academy](https://sit.academy/)
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+### Methods Used
+* Inferential Statistics
+* Exploratory Data Analysis
+* Data Visualization
+
+### Technologies
+* Python
+* Pandas, jupyter
+* Google API, Zürich Tourism API
+
+## Project Description
+(Provide more detailed overview of the project.
+Talk a bit about your data sources and what questions and hypothesis you are exploring.
+What specific data analysis/visualization and modelling work are you using to solve the
+problem? What blockers and challenges are you facing?
+Feel free to number or bullet point things here)
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+
+    *If using offline data mention that and how they may obtain the data from the froup)*
+
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
+create another "setup.md" file and link to it here*
+
+5. Follow setup [instructions](Link to file)
+
+## Featured Notebooks/Analysis/Deliverables
+* [Notebook](notebooks/google_api.ipynb)
+* [Notebook](notebooks/visualization.ipynb)
+* [Notebook](notebooks/vegan_restaurants_notebook.ipynb)
+* [Notebook](notebooks/Zürich_Tax_Incomes.ipynb)
+* [Presentation](reports/Presentation-reduced.pdf)
 
 
---------
+## Contributing Members
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+**Team Leads (Contacts) : [Darya Bomberger](https://github.com/dbomberger)**
+**Team Leads (Contacts) : [Lucas Fernandes](https://github.com/LucR31)**
+**Team Leads (Contacts) : [Sibel Yasemin Özgan](https://github.com/sibelyozgan)**
+

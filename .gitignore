@@ -77,7 +77,7 @@ target/
 
 # data to exclude
 GeoFeatures_Zurich_provided_by_UrbanDataLabs.csv
-BAU502OD5023.csv                         
+BAU502OD5023.csv
 BAU541OD5414.csv                         
 BAU543OD5436.csv                         
 WIR100OD1004.csv                         
