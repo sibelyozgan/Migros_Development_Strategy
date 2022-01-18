@@ -1,6 +1,6 @@
 # Migros_Development_Strategy
 
-![Where is the next Migros](reports/img/1.png)
+![Where is the next Migros](reports/img/migros.png)
 
 
 #### -- Project Status: [Completed]
