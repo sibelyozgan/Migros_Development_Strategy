@@ -37,10 +37,10 @@ Analyzes market opportunities based on the density of existing stores, presence 
 3. Data processing/transformation scripts are being kept [here](notebooks)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook](notebooks/google_api.ipynb)
-* [Notebook](notebooks/visualization.ipynb)
-* [Notebook](notebooks/vegan_restaurants_notebook.ipynb)
-* [Notebook](notebooks/Zürich_Tax_Incomes.ipynb)
+* [Notebook- Google API](notebooks/google_api.ipynb)
+* [Notebook- Urban Labs](notebooks/visualization.ipynb)
+* [Notebook- Alnatura Locations](notebooks/vegan_restaurants_notebook.ipynb)
+* [Notebook- Denner Locations](notebooks/Zürich_Tax_Incomes.ipynb)
 * [Presentation](reports/Presentation-reduced.pdf)
 
 
